@@ -2,6 +2,6 @@ moviepy
 IPython
 numpy
 opencv-python
-pickle
+pickle5
 glob
 matplotlib
