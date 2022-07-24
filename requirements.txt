@@ -1,0 +1,7 @@
+moviepy
+IPython
+numpy
+opencv-python
+pickle
+glob
+matplotlib
