@@ -2,5 +2,4 @@ moviepy
 IPython
 numpy
 opencv-python
-glob
 matplotlib
